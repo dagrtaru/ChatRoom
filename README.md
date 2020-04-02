@@ -26,5 +26,4 @@ These messages are not visible to user Kevin who is in Python room:
 ![alt text](https://github.com/dagrtaru/ChatRoom/blob/master/Snapshots/4.jpg)
 
 Future features might include:
-1)Creation and Login of users
-2)Private 1-to-1 messaging option
+Creation and Login of users and private 1-to-1 messaging option
