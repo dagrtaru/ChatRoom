@@ -1,5 +1,5 @@
 # ChatRoom
-A real-time web based chat application with room functionalities built with NodeJS, Socket.io, ExpressJS, and Moment.
+This is a real-time web based chat application with room functionalities built with NodeJS, Socket.io, ExpressJS, and Moment.
 Features:
 1) Multiple independent chat rooms.
 2) Users greeted when joining the chat. Other users cannot see this.
